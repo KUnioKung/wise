@@ -7,12 +7,51 @@
 "groups":[
 
 {
-"name":"Series",
-"image":"https://i.pinimg.com/736x/8f/65/f4/8f65f45d5a07a76c3aae7f300e4df63b.jpg",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/Tum.txt",
-"referer":"",
-"import":"false",
-"info":"" 
-},
-]
-}
+      "name": "True Detective Season 4 (2024) พากย์ไทย",
+      "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+      "stations": [
+        {
+          "name": "Ep.1",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "xxx",
+          "referer": "https://doonungfreeonline.net"
+        },
+ {
+          "name": "Ep.2",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E02.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.3",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E03.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.4",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E04.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.5",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E05.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+  {
+          "name": "Ep.6",
+          "info": "",
+          "image": "https://doonungfreeonline.net/wp-content/uploads/2024/02/RWbfv5hVGFKOecD34nHd0ErMghxT4KT.jpg",
+          "url": "https://worker2.playmov.tv/doonungfreeonline.net/4-ssd/movie/store-2000/True.Detective.S04E06.mp4/chunk.m3u8",
+          "referer": "https://doonungfreeonline.net"
+        },
+
+
+]},
