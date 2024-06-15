@@ -1,7 +1,7 @@
 {
 "name": "Tum",
 "image": "https://stickershop.line-scdn.net/stickershop/v1/sticker/665350430/android/sticker.png",
-"url": "https://raw.githubusercontent.com/BanditDid/Ban/main/Bird.txt",
+"url": "https://raw.githubusercontent.com/KUnioKung/wise/main/%E0%B9%80%E0%B8%97%E0%B8%AA",
 "author": "ช่องพี่ตั้ม",
 "groups": [
 
