@@ -7,11 +7,18 @@
 "groups":[
 
 {
-"name":"สาธุ (2024) THE BELIEVERS",
-"image":"https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024.jpg",
-"url":"https://raw.githubusercontent.com/KUnioKung/wise/main/Series.w3u",
-"import":"false",
+      "name":"สาธุ (2024) THE BELIEVERS",
+      "image":"https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024.jpg",
+      "stations": [
+
+{
+          "name":"EP.1",
+          "image":"https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024.jpg",
+          "url":"https://hlsp2p.xyz/view/a92098de-1182-5796-9d4a-7ff78952e5aa.m3u8",
+          "referer": "https://www.037hdmovie.com"
 
 },
 ]
 }
+
+]}
