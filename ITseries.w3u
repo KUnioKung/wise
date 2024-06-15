@@ -2,4 +2,19 @@
 "name":"Series",
 "author":"Kunio",
 "image":"https://i.pinimg.com/736x/8f/65/f4/8f65f45d5a07a76c3aae7f300e4df63b.jpg",
-"url":"https://raw.githubusercontent.com/KUnioKung/wise/main/ITgroup.w3u",
+"url":"https://raw.githubusercontent.com/KUnioKung/wise/main/ITseries.w3u",
+
+"groups": [
+
+{
+"name": "สาธุ (2024) The Believers, สาธุ (2024) The Believers EP.1-9",
+"image": "https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024.jpg",
+"stations": [
+{
+"name": "Ep.1",
+"image": "https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024.jpg",
+"url": "https://hlsp2p.xyz/view/a92098de-1182-5796-9d4a-7ff78952e5aa.m3u8",
+"referer": "https://www.037hdmovie.com/"
+},
+]
+}
