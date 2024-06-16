@@ -7,9 +7,14 @@
 "stations": [
 
 {
-        "name":"Dune Part Two (2024) ดูน ภาค 2",
+        "name":"Dune Part Two (2024) ดูน ภาค 2 (พากย์ไทย)",
         "image":"https://www.moviehdfree.net/wp-content/uploads/2024/01/Dune-Part-Two-2024-e1704993314171.webp?x92254",
         "url":"https://playermhd.p2phls.xyz/b37e715e-9d4f-4fec-b4bd-bc6c21b40f8c/0",
+        "referer": "https://www.moviehdfree.net"
+{
+        "name":"Road House (2024) คนเดือดบวกเมืองเถื่อน (ซับไทย)",
+        "image":"https://www.moviehdfree.net/wp-content/uploads/2024/01/Dune-Part-Two-2024-e1704993314171.webp?x92254",
+        "url":"https://playermhd.p2phls.xyz/4699fa1d-3d8f-412b-9a55-d0f9bf9638fd/0",
         "referer": "https://www.moviehdfree.net"
 
 },
